@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/tanapon395/sa-66-example/entity"
+	"github.com/Level69Magikrap/sa-66-example/entity"
 )
 
 // GET /genders
